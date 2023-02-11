@@ -1,3 +1,0 @@
-This is a file 
-This is a github file
-This is a git repo
